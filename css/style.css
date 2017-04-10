@@ -1,3 +1,8 @@
+.margen {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
 .principal {
     background-color: #190c09;
 }
@@ -57,4 +62,60 @@
 .seccion-verde-texto p {
     color: #fff;
     font-size: 2em;
+}
+
+.seccion-info-texto {
+    border-top: 3px dashed #eee;
+    border-bottom: 3px dashed #eee;
+    margin: 3em 0;
+    padding: 3em 0;
+}
+
+.seccion-info p {
+    font-size: 1.6em;
+    text-align: center;
+}
+
+
+.seccion-inscribete-grupo {
+    font-size: 1.2em;
+    padding: 10px 0;
+}
+
+.seccion-inscribete-form p {
+    font-weight: bold;
+}
+
+.seccion-empresas-texto {
+    border-top: 3px dashed #eee;
+    border-bottom: 3px dashed #eee;
+    padding: 4em 0;
+}
+
+.seccion-empresas h2 {
+    margin: 0 0 3em 0;
+    text-align: center;
+}
+
+.seccion-empresas img {
+    display: inline;
+    height: 80px;
+    width: auto;
+}
+
+.seccion-empresas-img {
+    text-align: center;
+}
+
+.seccion-hacker {
+    padding: 4em 0;
+}
+
+.seccion-marketing {
+    padding: 4em 0;
+}
+
+.seccion-hacker h3 {
+    font-size: 2em;
+    text-align: center;
 }
